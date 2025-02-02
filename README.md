@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aki051102
 - 👀 I’m interested in ... Data Science, AI, Space Science, etc
 - 🌱 I’m currently learning ... DSA, AI, etc....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...UniQue projects
+- 📫 How to reach me ...By hand
 - 😄 Pronouns: Zombie
 - ⚡ Fun fact: Yodas are goblins.
 
